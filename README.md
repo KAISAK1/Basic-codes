@@ -1,1 +1,1 @@
-These are all the codes i made while learning.
+These are all the codes I made while learning and watching tutorials 
